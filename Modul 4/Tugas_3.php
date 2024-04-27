@@ -1,5 +1,5 @@
 <?php
-$bulan = date('n'); // current month (1-12)
+$bulan = date(' '); // current month (1-12)
 
 switch ($bulan) {
     case 1:
